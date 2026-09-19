@@ -7,7 +7,7 @@ enviar.addEventListener('click', () => {
     const telefone = document.getElementById('telefone').value.trim()
     const msg = document.getElementById('msg').value.trim()
     if (nome != '' && email != '' && telefone != '' && msg != '') {
-        const meuNumero = '5511947091137'
+        const meuNumero = '5511958671284'
 
         const textMsg =
             `*Nova mensagem recebida pelo site*
